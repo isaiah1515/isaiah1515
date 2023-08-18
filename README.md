@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaiah! <br/> <a href="[https://github.com/isaiah1515]">IT Professional and Passoniate Cyber Security Analyst</a>
+<h1>Hi, I'm Isaiah! <br/> <a href="[https://github.com/isaiah1515]">IT Professional and Passoniate Cyber Security Professional </a>
 
 <h2>👨‍💻 My Projects :</h2>
 
