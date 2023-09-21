@@ -7,7 +7,7 @@
     
 <h2>📺 YouTube Videos</h2>
 
-- [Understanding Azure (Cloud) Management Levels and Hierarchy ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Understanding Azure (Cloud) Management Levels and Hierarchy ]
 -
 <h2> 🤳 Connect with me:</h2>
 
