@@ -16,5 +16,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/isaiah-jarvis1515/
-
-
